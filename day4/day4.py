@@ -14,12 +14,12 @@ def passphrase(string, part2 = False):
             deq.appendleft(word)
     return True
 
-def main(INPUT):
+def main(INPUT, part2):
     with open(INPUT) as f:
         content = f.readlines()
         content = [x.strip() for x in content]
         ok_count = 0
         for line in content:
-            if passphrase(line): ok_count = ok_count + 1
+            if passphrase(line, part2): ok_count = ok_count + 1
             else: pass
         return(ok_count)
