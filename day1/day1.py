@@ -1,3 +1,5 @@
+from collections import deque
+
 ## Part 1
 def captcha(n):
     string = list(str(n))
