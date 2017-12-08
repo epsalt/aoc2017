@@ -91,9 +91,9 @@ However, for `tknk` to be balanced, each of the programs standing on
 its disc and all programs above it must each match. This means that
 the following sums must all be the same:
 
-`ugml` + (`gyxo` + `ebii` + `jptl`) = 68 + (61 + 61 + 61) = 251
-`padx` + (`pbga` + `havc` + `qoyq`) = 45 + (66 + 66 + 66) = 243
-`fwft` + (`ktlj` + `cntj` + `xhth`) = 72 + (57 + 57 + 57) = 243
+- `ugml` + (`gyxo` + `ebii` + `jptl`) = 68 + (61 + 61 + 61) = 251
+- `padx` + (`pbga` + `havc` + `qoyq`) = 45 + (66 + 66 + 66) = 243
+- `fwft` + (`ktlj` + `cntj` + `xhth`) = 72 + (57 + 57 + 57) = 243
 
 As you can see, `tknk`'s disc is unbalanced: `ugml`'s stack is heavier
 than the other two. Even though the nodes above `ugml` are balanced,
