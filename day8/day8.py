@@ -27,5 +27,4 @@ def main(INPUT):
         if current_max > global_max:
             global_max = current_max
 
-    return({"part1": max(value for key, value in d.items()),
-            "part2": global_max})
+    return({"part1": current_max, "part2": global_max})
