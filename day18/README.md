@@ -1,4 +1,4 @@
---- Day 18: Duet ---
+# Day 18: Duet
 
 You discover a tablet containing some strange assembly code labeled
 simply "Duet". Rather than bother the sound card with it, you decide
