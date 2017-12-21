@@ -41,10 +41,10 @@ def main(input_file):
             if len(c) > 1:
                 for p in c:
                     removes.append(p)
+
         for r in removes:
             try: collisions.remove(r)
-            except ValueError:
-                pass
+            except ValueError: pass
 
     dists = [dist_from_origin(particle) for particle in particles]
     closest = dists.index(min(dists))
