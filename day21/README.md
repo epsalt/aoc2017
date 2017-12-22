@@ -1,4 +1,4 @@
---- Day 21: Fractal Art ---
+# Day 21: Fractal Art
 
 You find a program trying to generate some art. It uses a strange
 process that involves repeatedly enhancing the detail of an image
